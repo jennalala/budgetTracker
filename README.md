@@ -46,6 +46,9 @@ a huge "thank you!" to [Jonathon J. Watson](https://github.com/jonathanjwatson) 
 
 A user can contribute to this website by making the UI friendlier. 
 
+## Links
+Deployed: https://stormy-cliffs-38561.herokuapp.com/
+Repo: https://github.com/jennalala/budgetTracker
 
 ## Questions
 
