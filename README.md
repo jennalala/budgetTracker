@@ -1,4 +1,3 @@
-# budgetTracker
 # Budget Tracker
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
@@ -39,10 +38,20 @@ Fork repository at [jennala github](https://github.com/jennalala/budgetTracker) 
 
 This application allows for the user to track their money and allowing them to access that information anytime, online or offline. Having offline functionality is paramount to this applications success. The user can also download this application onto their phone as an app as well. 
 
+## Contributors
+
+Starter code was from the Georgia Tech Full Stack Web Development Program.
+
+a huge "thank you!" to [Jonathon J. Watson](https://github.com/jonathanjwatson) whom was critical in the process of creating this application.
+
+
 ## Contributing
 
 A user can contribute to this website by making the UI friendlier. 
 
+## Links
+Deployed: https://stormy-cliffs-38561.herokuapp.com/
+Repo: https://github.com/jennalala/budgetTracker
 
 ## Questions
 
