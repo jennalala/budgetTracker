@@ -3,6 +3,9 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
+## Demo
+![Budget App Home](public/icons/budget-tracker-screenshot.png)
+
 ## Description
 
 AS AN avid traveller
